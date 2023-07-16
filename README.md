@@ -1,3 +1,3 @@
-# plugin-eloquent-hashids
+# Bellows Eloquent Hashids Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/eloquent-hashids](https://bellows.dev/docs/plugins/eloquent-hashids)
